@@ -29,8 +29,7 @@ export const config = {
 // 天气：{{weather.DATA}}  
 // 最低气温: {{min_temperature.DATA}}  
 // 最高气温: {{max_temperature.DATA}}  
-// 今天是我们恋爱的第{{love_day.DATA}}天
-//你就是个大傻逼！！！！你妈白憨怂娃
+// 今天是我们恋爱的第{{love_day.DATA}}天你妈白大傻逼憨怂
 // {{birthday_message.DATA}}
 
 // {{note_en.DATA}}  
